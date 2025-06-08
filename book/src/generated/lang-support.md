@@ -3,6 +3,7 @@
 | ada | ✓ | ✓ |  | `ada_language_server` |
 | adl | ✓ | ✓ | ✓ |  |
 | agda | ✓ |  |  |  |
+| alloy | ✓ |  |  |  |
 | amber | ✓ |  |  |  |
 | astro | ✓ |  |  | `astro-ls` |
 | awk | ✓ | ✓ |  | `awk-language-server` |
@@ -21,6 +22,7 @@
 | capnp | ✓ |  | ✓ |  |
 | cel | ✓ |  |  |  |
 | circom | ✓ |  |  | `circom-lsp` |
+| clarity | ✓ |  |  | `clarinet` |
 | clojure | ✓ |  |  | `clojure-lsp` |
 | cmake | ✓ | ✓ | ✓ | `cmake-language-server` |
 | codeql | ✓ | ✓ |  | `codeql` |
